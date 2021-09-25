@@ -1,0 +1,7 @@
+{
+    "hosting": {
+      "site": "vfsadmin-80",
+  
+      "public": "public"
+    }
+  }
